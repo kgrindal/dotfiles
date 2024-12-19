@@ -1,0 +1,9 @@
+[credential]
+	helper = store
+[user]
+	name = kgrindal
+	email = karl@grindal.org
+[core]
+	editor = nvim
+[color]
+	ui = true
